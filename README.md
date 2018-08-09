@@ -1,21 +1,5 @@
 # owl-login-form
 
-## Project setup
-```
-npm install
-```
+Try it: [https://ethonlau.github.io/owl-login-form](https://ethonlau.github.io/owl-login-form)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+![image](https://github.com/ethonlau/owl-login-form/blob/master/image/img.gif)
